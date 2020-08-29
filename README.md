@@ -4,7 +4,7 @@
 - B
 - C
 
-test
+テスト
 
 ```c
 #include <stdio.h>
