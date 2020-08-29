@@ -18,4 +18,4 @@ main() {
 これはmasterブランチです
 
 
-GitHub Flow でmasterに反映していきます
+GitHub Flow でmasterに反映
