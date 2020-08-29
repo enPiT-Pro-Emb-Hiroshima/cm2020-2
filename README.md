@@ -16,3 +16,6 @@ main() {
 
 別のブランチに移動しました
 これはmasterブランチです
+
+
+GitHub Flow でmasterに反映
